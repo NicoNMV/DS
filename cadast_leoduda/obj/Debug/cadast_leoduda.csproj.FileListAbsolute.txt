@@ -1,0 +1,26 @@
+C:\Users\2etimds\Documents\Nova pasta\vs_dudaeleo\cadast_leoduda\obj\Debug\cadast_leoduda.csproj.AssemblyReference.cache
+C:\Users\2etimds\Documents\Nova pasta\vs_dudaeleo\cadast_leoduda\obj\Debug\cadast_leoduda.csproj.SuggestedBindingRedirects.cache
+C:\Users\2etimds\Documents\Nova pasta\vs_dudaeleo\cadast_leoduda\obj\Debug\cadast_leoduda.Form1.resources
+C:\Users\2etimds\Documents\Nova pasta\vs_dudaeleo\cadast_leoduda\obj\Debug\cadast_leoduda.Form2.resources
+C:\Users\2etimds\Documents\Nova pasta\vs_dudaeleo\cadast_leoduda\obj\Debug\cadast_leoduda.Form3.resources
+C:\Users\2etimds\Documents\Nova pasta\vs_dudaeleo\cadast_leoduda\obj\Debug\cadast_leoduda.Properties.Resources.resources
+C:\Users\2etimds\Documents\Nova pasta\vs_dudaeleo\cadast_leoduda\obj\Debug\cadast_leoduda.csproj.GenerateResource.cache
+C:\Users\2etimds\Documents\Nova pasta\vs_dudaeleo\cadast_leoduda\obj\Debug\cadast_leoduda.csproj.CoreCompileInputs.cache
+C:\Users\2etimds\Documents\Nova pasta\vs_dudaeleo\cadast_leoduda\bin\Debug\cadast_leoduda.exe.config
+C:\Users\2etimds\Documents\Nova pasta\vs_dudaeleo\cadast_leoduda\bin\Debug\cadast_leoduda.exe
+C:\Users\2etimds\Documents\Nova pasta\vs_dudaeleo\cadast_leoduda\bin\Debug\cadast_leoduda.pdb
+C:\Users\2etimds\Documents\Nova pasta\vs_dudaeleo\cadast_leoduda\obj\Debug\cadast_leoduda.exe
+C:\Users\2etimds\Documents\Nova pasta\vs_dudaeleo\cadast_leoduda\obj\Debug\cadast_leoduda.pdb
+C:\Users\2etimds\Desktop\cadast_leoduda\bin\Debug\cadast_leoduda.exe.config
+C:\Users\2etimds\Desktop\cadast_leoduda\bin\Debug\cadast_leoduda.exe
+C:\Users\2etimds\Desktop\cadast_leoduda\bin\Debug\cadast_leoduda.pdb
+C:\Users\2etimds\Desktop\cadast_leoduda\obj\Debug\cadast_leoduda.csproj.AssemblyReference.cache
+C:\Users\2etimds\Desktop\cadast_leoduda\obj\Debug\cadast_leoduda.csproj.SuggestedBindingRedirects.cache
+C:\Users\2etimds\Desktop\cadast_leoduda\obj\Debug\cadast_leoduda.Form1.resources
+C:\Users\2etimds\Desktop\cadast_leoduda\obj\Debug\cadast_leoduda.Form2.resources
+C:\Users\2etimds\Desktop\cadast_leoduda\obj\Debug\cadast_leoduda.Form3.resources
+C:\Users\2etimds\Desktop\cadast_leoduda\obj\Debug\cadast_leoduda.Properties.Resources.resources
+C:\Users\2etimds\Desktop\cadast_leoduda\obj\Debug\cadast_leoduda.csproj.GenerateResource.cache
+C:\Users\2etimds\Desktop\cadast_leoduda\obj\Debug\cadast_leoduda.csproj.CoreCompileInputs.cache
+C:\Users\2etimds\Desktop\cadast_leoduda\obj\Debug\cadast_leoduda.exe
+C:\Users\2etimds\Desktop\cadast_leoduda\obj\Debug\cadast_leoduda.pdb
